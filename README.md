@@ -21,19 +21,20 @@ The three agents run with real-time SSE streaming so you can watch progress as i
 ## Screenshots
 
 ### Gap Analysis
-![Gap Analysis](docs/gap_analysis.png)
+<img width="861" height="936" alt="image" src="https://github.com/user-attachments/assets/eb5480b0-3dcd-4432-9d8e-883f07f9a826" />
 
 ### Cover Letter
-![Cover Letter](docs/cover_letter.png)
+<img width="871" height="728" alt="image" src="https://github.com/user-attachments/assets/e3bc2d7b-9a80-40ff-a893-6d53d226bfac" />
 
 ### Behavioral Questions
-![Behavioral](docs/behavioral.png)
+<img width="903" height="634" alt="image" src="https://github.com/user-attachments/assets/eb1f4c5b-378e-428b-b562-1680f4a3dccd" />
 
 ### Technical Questions
-![Technical](docs/technical.png)
+<img width="884" height="675" alt="image" src="https://github.com/user-attachments/assets/b01a275b-4a5d-4f04-acd4-d4b059589ebc" />
 
 ### LeetCode Set
-![LeetCode](docs/leetcode.png)
+<img width="923" height="663" alt="image" src="https://github.com/user-attachments/assets/be9b60d3-53bf-45b2-82fa-52bc4f824a07" />
+
 
 ---
 
