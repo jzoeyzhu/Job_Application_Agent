@@ -8,8 +8,10 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 dist/
+build/
 venv/
 .venv/
+env/
 
 # Node
 node_modules/
@@ -22,3 +24,7 @@ out/
 
 # OS
 .DS_Store
+
+# Data (resumes and sessions are local only)
+data/resumes/
+data/sessions/
